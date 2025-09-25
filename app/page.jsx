@@ -5,7 +5,7 @@
 import CategoryCard from "./components/CategoryCard";
 import CosmeticsSaleBanner from "./components/CosmeticsSaleBanner";
 import FeaturesSection from "./components/FeaturesSection";
-import NewArrivals from "./components/NewArrivals";
+// import NewArrivals from "./components/NewArrivals";
 
 
 
@@ -21,7 +21,7 @@ export default function Home() {
       </div>
   
    
-      <NewArrivals />
+      {/* <NewArrivals /> */}
       <FeaturesSection/>
     </main>
   );
